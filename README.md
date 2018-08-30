@@ -14,7 +14,7 @@ However, we call for your comments and pull requests.
 We welcome your comments on slides. 
 
 ## Contributions/Comments
-We always welcome your comments and pull requests.
+We always welcome your comments and pull requests. If you want to discuss more with us directly, please visit our facebook page and write your opinion:)
 
 ## Reference Implementations 
 * https://github.com/tensorflow/tensorflow
