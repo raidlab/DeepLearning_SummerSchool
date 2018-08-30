@@ -1,4 +1,4 @@
-# (180825)raidlab Deep Learning Summer School
+# (180825) Deep Learning Summer School by 'raid lab.'
 
 This is code for our deep learning summer school in TensorFlow practice (in Korean) at 
 https://www.youtube.com/channel/UCXUrSPIH3bQdxeg3K_yuK-A
