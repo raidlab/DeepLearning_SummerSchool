@@ -19,3 +19,5 @@ We always welcome your comments and pull requests. If you want to discuss more w
 ## Reference Implementations 
 * https://github.com/tensorflow/tensorflow
 * https://github.com/hunkim/DeepLearningZeroToAll
+* http://yann.lecun.com/exdb/mnist/
+* https://github.com/GregVial/CoMNIST
