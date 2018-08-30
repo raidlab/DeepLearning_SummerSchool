@@ -7,7 +7,7 @@ https://www.youtube.com/channel/UCXUrSPIH3bQdxeg3K_yuK-A
 This is work in progress, and may have bugs. 
 However, we call for your comments and pull requests.
 
-## Lecture slides:
+## Lecture slides
 
 * https://drive.google.com/drive/u/0/folders/1Zygma73FUKCf_8HGycO0hE1VaTrOBRV1
 
